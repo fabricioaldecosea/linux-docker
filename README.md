@@ -1,10 +1,11 @@
-# Containers & Docker excercises
+# Ejercicio Docker
 
-Instalación básica con docker y docker-compose
+Comandos a ejecutar
 
-## Ejercicios
+...
+docker build -t lin .
+docker run -p 8082:4000 lin
+curl localhost:8082
+...
 
-### Docker - Guía del Usuario
-
-[Guia de usuario](http://pil.as/dcokerguia)
-
+La URL es 'http://localhost:8082/'
