@@ -14,7 +14,7 @@ docker run -p 8082:4000 lin
 
 ...
 
-Desde otra Terminal SSH
+# Desde otra terminal ssh luego verificar con
 
 curl localhost:8082 
 
