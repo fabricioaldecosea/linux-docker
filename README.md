@@ -4,6 +4,8 @@ Comandos a ejecutar
 
 ...
 
+vagrant ssh
+
 cd /vagrant
 
 cd local
